@@ -1,0 +1,16 @@
+[[source]]
+url = "https://igcruz:eyJraWQiOiI4ZTNjOWE4Zi1mNDA2LTRiMTQtYWEyMy1kNzQ5Yzc5ZGUwMzQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJhcnRpZmFjdHMtbWFuYWdlciIsInN1YiI6ImlnY3J1eiIsInR5cGUiOiJ1c2VyIiwiaWF0IjoxNzI5NzY3NjM1LCJleHAiOjE3Mjk3OTY0MzV9.rxsgpb_vXTr92ITzZN7WKisaKTGVEK-HKOulxSRPS_vDPK3JDA7N2AGl7yB896JKl2xY0etC1CiSp40Nnm-gHq7YXdAYNoscHS2-SmPWEe9dykNtOMnzRBXDCg9XfJRHrDVelLrBbdYYkvt3_mIaSu96k3B-bW31Dtc1CUTPspv1bM29AIVpkxE4joIHtRVsysaHZvQjnF9BP-jvNOS7GxeQ-mVXfGBikO9XaZKpJhtBA1L36wrJt2QtjELgtk8Cfz5Qlnj9-anEGwZ_YoUSLKgJQNSWS5oAkO9aAQdi1MSE1-yIWewwMCaP8Vxg9XWuAlK8j14iQjeGLwBSbjx7yg@pypi.artifacts.furycloud.io"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[packages]
+matplotlib = "*"
+pandas = "*"
+numpy = "*"
+scipy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
+python_full_version = "3.11.7"
